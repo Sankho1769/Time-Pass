@@ -1,4 +1,3 @@
-# Data: Recipes for drinks (ingredients and cost)
 MENU = {
     "espresso": {
         "ingredients": {
